@@ -4,8 +4,8 @@ import Form from './components/Form'
 import Recipe from './Recipe/Recipe';
 
 function App() {
-  const APP_ID = '3a463df7'
-  const APP_KEY = '631a41c372807a9308a12c665d2c087a'
+  const APP_ID = '＃'
+  const APP_KEY = '＃'
   const [name,setName]=useState("kang");
   const [search, setSearch] = useState("");
   const [query,setQuery]=useState("banana");//keywordの指定するところの部分
